@@ -4,7 +4,7 @@
 
 # Django REST Framework Oversimplified  (GET) and (POST) Request
 
-#Django V 4.0.6
+# Django V 4.0.6
 
 # Reference
 
